@@ -1,0 +1,4 @@
+b9bd0f3e-ae3b-4008-a041-6046cfd3ac83,Alex,6945454588,kara@hotmail.gr,Solonos 5-6
+d72b08c6-1d88-420d-9b13-b67ade86dc0e,Giannos,6930302516,papa@hotmail.com,Deligiorgi 30
+440ffc5d-27db-4631-8a33-c9e789d4368f,Nikos,6983636340,mimo@gmail.com,Sotiros Dios 94
+3e2496bd-4779-4ab8-a85f-d26d29edea2c,Giorgos,6936369860,go@gdf.dfg,Karaolis 1
